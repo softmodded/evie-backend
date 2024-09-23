@@ -16,6 +16,7 @@
     "canvas": "^2.11.2",
     "discord.js": "^14.16.2",
     "dotenv": "^16.4.5",
+    "node-fetch": "^2.6.7",
     "quick.db": "^9.1.7"
   }
 }
